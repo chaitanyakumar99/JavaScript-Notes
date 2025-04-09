@@ -2,7 +2,6 @@ two type of datatypes
 1, primitive datatype
 2, Non-primitive datatype
 
-
 Primitive Datatype ; Immutable, stored by value
 -------------------
 *string
@@ -66,6 +65,7 @@ let fruits = ["Apple", "Banana", "Cherry"];
 
 Object - A collection of key-value pairs.
 Where to Use: Represent entities with properties.
+
 
 let person = {
   name: "Alice",
