@@ -1,5 +1,6 @@
 Step-by-Step Breakdown:
 1️⃣ Math.random()
+//numbers are going to generated automatically
 
 Math.random() generates a random decimal number between 0 (inclusive) and 1 (exclusive).
 Example outputs: 0.142, 0.876, 0.543, etc.
@@ -26,3 +27,21 @@ So the output will always be between 10 and 50 (inclusive).
 formula
 Math.floor(Math.random() * (max - min + 1)) + min
 Math.floor(Math.random() * (20 - 5 + 1)) + 5;
+
+
+-------------------------------------
+
+floor:-
+round a number down to the nearest integer
+
+
+abs:-
+return the absulute number of the value
+
+pow:-
+raise a raise to the power of the opponent
+
+
+
+
+
