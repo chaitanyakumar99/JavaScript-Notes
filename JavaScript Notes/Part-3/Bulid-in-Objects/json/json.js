@@ -1,5 +1,5 @@
 //Built-in JSON Methods (JSON.parse() & JSON.stringify())
-//JSON.stringify(obj)  =>  Converts a JavaScript object to a JSON string.
+//JSON.stringify(obj)  =>     Converts a JavaScript object to a JSON string.
 //JSON.parse(jsonString)  =>  Converts a JSON string into a JavaScript object
 
 
@@ -51,9 +51,9 @@ console.log(parseObject)
 
 
 //example -2 with an Array
-const jsonFruits = '["Apple", "Banana", "Cherry", "Orange", "Graps"]'
-const parseFruits = JSON.parse(jsonFruits)
-console.log(parseFruits)
+    const jsonFruits = '["Apple", "Banana", "Cherry", "Orange", "Graps"]'
+    const parseFruits = JSON.parse(jsonFruits)
+    console.log(parseFruits)
 //[ 'Apple', 'Banana', 'Cherry', 'Orange', 'Graps' 
 
 
