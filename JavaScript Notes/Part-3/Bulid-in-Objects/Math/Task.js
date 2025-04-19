@@ -19,6 +19,7 @@ let numberValue = [10, 67, 4, 9, 54, 87, 65, 1, 9]
 findMinMax(numberValue)
 
 //Generate a Random Password
+
 function genaratePassword(){
     let characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
     let password = "";
