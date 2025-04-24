@@ -132,6 +132,7 @@ console.log(fruits)  //[ 'Orange', 'lemon', 'Graps', 'banana', 'mango' ]
 // slice() returns a shallow copy of an array.
 // splice() modifies the original array.
 
+
 //example -1
 const items = ['a', 'b', 'c', 'd', 'e']
 console.log(items.slice(1, 4))   //[ 'b', 'c', 'd' ]
